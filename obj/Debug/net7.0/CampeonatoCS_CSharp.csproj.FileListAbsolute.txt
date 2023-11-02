@@ -1,0 +1,14 @@
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\bin\Debug\net7.0\CampeonatoCS_CSharp.exe
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\bin\Debug\net7.0\CampeonatoCS_CSharp.deps.json
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\bin\Debug\net7.0\CampeonatoCS_CSharp.runtimeconfig.json
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\bin\Debug\net7.0\CampeonatoCS_CSharp.dll
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\bin\Debug\net7.0\CampeonatoCS_CSharp.pdb
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.AssemblyInfoInputs.cache
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.AssemblyInfo.cs
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.dll
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\refint\CampeonatoCS_CSharp.dll
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.pdb
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\CampeonatoCS_CSharp.genruntimeconfig.cache
+C:\Users\joao\Desktop\CampeonatoCS_CSharp\obj\Debug\net7.0\ref\CampeonatoCS_CSharp.dll
